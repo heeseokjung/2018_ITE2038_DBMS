@@ -5,4 +5,4 @@
 * Disk-based B+ tree
 * Buffer manager
 * Join(naive hash join)
-* Concurrency control(pessimistic locking manager)
+* Concurrency Control(pessimistic locking manager)
